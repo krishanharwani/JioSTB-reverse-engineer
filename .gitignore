@@ -1,0 +1,6 @@
+# A session's backups, screenshots and notes carry the box's serial, IP and account details
+backup/
+shots/
+work/
+adbkey*
+__pycache__/
